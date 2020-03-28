@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22080" started-at="2020-03-28T16:04:19Z" finished-at="2020-03-28T16:04:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22080" started-at="2020-03-28T16:04:19Z" finished-at="2020-03-28T16:04:41Z">
+      <class name="tests.CalendarTest">
+        <test-method status="PASS" signature="Calendar()[pri:0, instance:tests.CalendarTest@36d4b5c]" name="Calendar" duration-ms="22041" started-at="2020-03-28T16:04:19Z" finished-at="2020-03-28T16:04:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Calendar -->
+      </class> <!-- tests.CalendarTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
